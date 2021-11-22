@@ -1,0 +1,41 @@
+.box {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-text {
+    height: 50px;
+}
+
+.white {
+    background-color: white;
+    border: 1px white solid;
+}
+
+.blu {
+    background-color: royalblue;
+    border: 1px white solid;
+}
+
+.green {
+    background-color: rgb(6, 172, 6);
+    height: 40px;
+    
+}
+
+.left {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.central {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.right {
+    margin-left: 5px;
+    margin-right: 20px;
+}
